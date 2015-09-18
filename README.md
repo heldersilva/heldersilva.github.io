@@ -1,4 +1,4 @@
 # heldersilva.github.io
-Some stuff I do (break)
+Stuff I do (and break)
 
 My personal page, hosted on Github :D
